@@ -1,2 +1,2 @@
 # NACA-2412-CFD-analysis-
-![Velocity Contour](project-pictures/Velocity-contour.png)
+![Velocity Contour](main/project-pictures/Velocity-contour.png)
